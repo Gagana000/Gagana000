@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagana Rantharu</h1>
-<h3 align="center">Fullstack Devveloper form Sri Lanka</h3>
+<h3 align="center">Fullstack Developer form Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagana000&label=Profile%20views&color=0e75b6&style=flat" alt="gagana000" /> </p>
 
